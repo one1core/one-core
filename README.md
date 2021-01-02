@@ -1,2 +1,4 @@
 # one-core
-Token Name : one core,  Token Symbol: OCR , Token Supply- 100000
+Token Name : one core,  Token Symbol: OC, Token Supply- 500
+Staking , Lending Code generated
+AUDIT completed
